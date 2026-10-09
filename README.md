@@ -1,18 +1,27 @@
-### 🔭 I’m currently working on
-- Developing defensive cybersecurity tools and OSINT reconnaissance suites (Python & Linux CLI).
-- Auditing and securing full-stack applications (Flutter & Node.js).
+<h1 align="center">Hi, I'm Ammar Al Jabali 👋</h1>
 
-### 👯 I’m looking to collaborate on
-- Open-source cybersecurity tools, penetration testing projects, and OSINT frameworks.
+<h3 align="center">Full-Stack Developer (Flutter & Node.js) 📱 | AI Apps (AWS Bedrock, Vertex AI, Claude) 🤖 | IoT & Hardware Cybersecurity 🛡️</h3>
 
-### 🤝 I’m looking for help with
-- Advanced exploit analysis, reverse engineering, and threat intelligence.
+<p align="center">
+  <a href="https://linkedin.com/in/AmmarAlJabali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ammarsobhy791-wq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ammarsobhy791@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 🌱 I’m currently learning
-- Web Application Penetration Testing, Digital Forensics, and IoT Security (ESP32/Arduino).
+---
 
-### 💬 Ask me about
-- OSINT, Email Reconnaissance, Metadata Extraction, and Mobile/Web Security.
+### 🚀 About Me
 
-### ⚡ Fun fact
-- I enjoy thinking like an attacker to build better defenses!
+```javascript
+class AmmarAlJabali {
+  role = "Full-Stack Developer & Cybersecurity Enthusiast";
+  language = "Arabic & English";
+  education = "Suez Canal University (SCU)";
+  skills = [
+    "Flutter & Node.js",
+    "AI Integration (AWS Bedrock, Vertex AI, Claude)",
+    "IoT & Hardware Security (ESP32 / Arduino)",
+    "OSINT Reconnaissance & Python CLI Tools",
+    "Ethical Hacking & Web Security"
+  ];
+}
