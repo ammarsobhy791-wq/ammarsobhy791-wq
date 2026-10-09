@@ -17,11 +17,4 @@ class AmmarAlJabali {
   role = "Full-Stack Developer & Cybersecurity Enthusiast";
   language = "Arabic & English";
   education = "Suez Canal University (SCU)";
-  skills = [
-    "Flutter & Node.js",
-    "AI Integration (AWS Bedrock, Vertex AI, Claude)",
-    "IoT & Hardware Security (ESP32 / Arduino)",
-    "OSINT Reconnaissance & Python CLI Tools",
-    "Ethical Hacking & Web Security"
-  ];
 }
